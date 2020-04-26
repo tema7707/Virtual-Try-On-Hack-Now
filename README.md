@@ -1,6 +1,8 @@
 # Style
 App for virtual fitting of clothing fitting.
 
+[Demonstration](https://youtu.be/szrG1t3OJ1c)
+
 ## Main functionality:
 This app is designed to show you how you will look in your chosen clothes.
 
