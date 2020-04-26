@@ -30,7 +30,7 @@ public class ImageSendingActivity extends AppCompatActivity {
     final static private String TAG = "DetectronClassification";
     final static private int GALLERY_REQUEST_CODE = 20;
 
-    final static private String HOST = "https://f88a78e0.ngrok.io/style/api/v1.0/segmentate";
+    final static private String HOST = "https://8a136520.ngrok.io/style/api/v1.0/segmentate";
     final static private String KEY_FILE = "file";
     final static private String KEY_TYPE = "cloth";
     final static private String KEY_GRUB = "grub_cut";
